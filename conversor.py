@@ -1,10 +1,9 @@
-import csv
+#código feito por Mateus Castello
 
 def proc(entrada):
     with open(entrada, 'r') as csv_file:
-        csv_reader = csv.reader(csv_file)
-        with open('resultado.csv', 'w') as new_file:
-            csv_writer = csv.writer(new_file)
+        
+        with open('resultado.csv', 'w') as new_file:            
             new_file.write("Data,Hora,Vazao,Totalizador\n")
 
             while True:
@@ -32,15 +31,16 @@ def proc(entrada):
                     new_file.write(linha_data + '\n')
                     # line = csv_file.readline( )
                     # csv_writer.writerow(linha_data)
-                except EOFError:
-                    print("Arquivo processado com sucesso")
+                except EOFError:                    
                     break
-                except IndexError:
-                    print("Arquivo processado com sucesso 2")
+                except IndexError:                    
                     break
 
 
 entrada = input("Digite aqui o nome do arquivo de origem dos dados:")
 proc(entrada)
-print("Arquivo convertido com Sucesso!\n\n\n")
-entrada = input("Pressione qualquer tecla para sair")
+print("""\n\n\n 
+#-----------------------------------#
+        Arquivo convertido!
+#-----------------------------------#\n\n\n""")
+entrada = input("Pressione enter para sair")
