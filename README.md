@@ -1,7 +1,7 @@
 # ConversorCSV
 Este é um simples conversor escrito em Python, para um arquivo .txt que é gerado a partir do Datalogger de um medidor de vazão ULTRAFLOW da empresa Tricomex
 
-O objetivo deste conversor é tratar o arquivo de log que é gravado de forma estruturada, transformando o mesmo em um arquivo CSV (comma-separated values), um formato mais versátil, que pode ser utilizado posteriormente por bibliotecas de visualização de dados, ou para a edição do mesmo em um programa de planilhas, como o Excel
+O objetivo deste conversor é tratar o arquivo de log que é gravado de forma estruturada, transformando o mesmo em um arquivo CSV (comma-separated values), um formato mais versátil, que pode ser utilizado posteriormente por bibliotecas de manipulação e visualização de dados como Pandas, NumPy, Plotly, etc. ou para a edição do mesmo em um programa de planilhas, como o Excel
 
 <h2>Funcionamento</h2>
   O arquivo gerado pelo logger possui uma estrutura definida, com cada valor de leitura possuindo uma série de valores, que muitas vezes não são interessantes para uma correta visualização dos dados<br>
