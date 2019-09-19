@@ -1,0 +1,1160 @@
+19-08-09 10:30:00
+SYS:*R
+Flow  11748   l/h *R
+NET   +84228x1 L
+UP:78.5,DN:78.7,Q=87
+FLOW: 11748.9  l/h
+VEL: 1.45291 m/s
+
+19-08-17 10:30:00
+SYS:*R
+Flow  11809   l/h *R
+NET  +779656x1 L
+UP:77.5,DN:77.7,Q=87
+FLOW: 11809.7  l/h
+VEL: 1.46043 m/s
+
+19-08-17 11:30:00
+SYS:*R
+Flow  11774   l/h *R
+NET  +787294x1 L
+UP:76.0,DN:76.4,Q=78
+FLOW: 11774.9  l/h
+VEL: 1.45613 m/s
+
+19-08-17 12:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +792024x1 L
+UP:77.1,DN:77.3,Q=93
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-17 13:30:00
+SYS:*R
+Flow  11823   l/h *R
+NET  +796953x1 L
+UP:77.0,DN:77.3,Q=84
+FLOW: 11823.1  l/h
+VEL: 1.4621 m/s
+
+19-08-17 14:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +802423x1 L
+UP:77.0,DN:77.1,Q=92
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-17 15:30:00
+SYS:*R
+Flow  11866   l/h *R
+NET  +806825x1 L
+UP:76.9,DN:77.2,Q=89
+FLOW: 11866  l/h
+VEL: 1.4674 m/s
+
+19-08-17 16:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +812500x1 L
+UP:77.1,DN:77.1,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-17 17:30:00
+SYS:*R
+Flow  11733   l/h *R
+NET  +818002x1 L
+UP:77.0,DN:77.2,Q=89
+FLOW: 11733.3  l/h
+VEL: 1.45099 m/s
+
+19-08-17 18:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +823057x1 L
+UP:77.1,DN:77.3,Q=88
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-17 19:30:00
+SYS:*R
+Flow  11842   l/h *R
+NET  +826933x1 L
+UP:77.2,DN:77.4,Q=90
+FLOW: 11842.1  l/h
+VEL: 1.46444 m/s
+
+19-08-17 20:30:00
+SYS:*R
+Flow  11920   l/h *R
+NET  +830436x1 L
+UP:77.2,DN:77.5,Q=91
+FLOW: 11920.7  l/h
+VEL: 1.47416 m/s
+
+19-08-17 21:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +833328x1 L
+UP:77.3,DN:77.6,Q=89
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-17 22:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +836241x1 L
+UP:77.4,DN:77.5,Q=89
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-17 23:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +839101x1 L
+UP:77.4,DN:77.6,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-18 00:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +840592x1 L
+UP:77.5,DN:77.6,Q=91
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-18 01:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +843361x1 L
+UP:77.5,DN:77.6,Q=92
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-18 02:30:00
+SYS:*R
+Flow  11736   l/h *R
+NET  +845224x1 L
+UP:77.5,DN:77.8,Q=89
+FLOW: 11736.2  l/h
+VEL: 1.45134 m/s
+
+19-08-18 03:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +847437x1 L
+UP:77.6,DN:77.7,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-18 04:30:00
+SYS:*R
+Flow  11749   l/h *R
+NET  +849328x1 L
+UP:77.6,DN:77.8,Q=91
+FLOW: 11749.6  l/h
+VEL: 1.45301 m/s
+
+19-08-18 05:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +851506x1 L
+UP:77.7,DN:77.8,Q=89
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-18 06:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +854324x1 L
+UP:77.7,DN:77.8,Q=93
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-18 07:30:00
+SYS:*R
+Flow  11678   l/h *R
+NET  +857136x1 L
+UP:77.6,DN:77.9,Q=90
+FLOW: 11678.9  l/h
+VEL: 1.44426 m/s
+
+19-08-18 08:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +860562x1 L
+UP:77.6,DN:77.7,Q=91
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-18 09:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +864132x1 L
+UP:77.5,DN:77.6,Q=92
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-18 10:30:00
+SYS:*R
+Flow  633.55  l/h *R
+NET  +869329x1 L
+UP:77.4,DN:77.5,Q=91
+FLOW: 633.559  l/h
+VEL: 0.0783484 m/s
+
+19-08-18 11:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +872583x1 L
+UP:77.2,DN:77.4,Q=92
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-18 12:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +875829x1 L
+UP:77.0,DN:77.1,Q=91
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-18 13:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +878824x1 L
+UP:77.0,DN:77.1,Q=94
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-18 14:30:00
+SYS:*R
+Flow  11864   l/h *R
+NET  +883278x1 L
+UP:76.7,DN:76.9,Q=92
+FLOW: 11864.4  l/h
+VEL: 1.4672 m/s
+
+19-08-18 15:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +887199x1 L
+UP:76.8,DN:76.9,Q=92
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-18 16:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +890667x1 L
+UP:76.8,DN:76.9,Q=93
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-18 17:30:00
+SYS:*R
+Flow  11877   l/h *R
+NET  +894723x1 L
+UP:76.8,DN:76.9,Q=91
+FLOW: 11877.6  l/h
+VEL: 1.46883 m/s
+
+19-08-18 18:30:00
+SYS:*R
+Flow  1076.2  l/h *R
+NET  +899803x1 L
+UP:77.0,DN:77.0,Q=95
+FLOW: 1076.2  l/h
+VEL: 0.133088 m/s
+
+19-08-18 19:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +903024x1 L
+UP:77.0,DN:77.1,Q=93
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-18 20:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +906360x1 L
+UP:77.1,DN:77.2,Q=88
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-18 21:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +909502x1 L
+UP:77.1,DN:77.2,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-18 22:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +912553x1 L
+UP:77.2,DN:77.3,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-18 23:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +913977x1 L
+UP:77.1,DN:77.4,Q=91
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-19 00:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +916842x1 L
+UP:77.2,DN:77.3,Q=91
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-19 01:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +918267x1 L
+UP:77.3,DN:77.4,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-19 02:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +921007x1 L
+UP:77.3,DN:77.4,Q=89
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-19 03:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +922394x1 L
+UP:77.3,DN:77.4,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-19 04:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +925151x1 L
+UP:77.4,DN:77.5,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-19 05:30:00
+SYS:*R
+Flow  11876   l/h *R
+NET  +926688x1 L
+UP:77.3,DN:77.6,Q=91
+FLOW: 11876.6  l/h
+VEL: 1.46871 m/s
+
+19-08-19 06:30:00
+SYS:*R
+Flow  11763   l/h *R
+NET  +929941x1 L
+UP:77.4,DN:77.6,Q=92
+FLOW: 11763.1  l/h
+VEL: 1.45467 m/s
+
+19-08-19 07:30:00
+SYS:*R
+Flow  11707   l/h *R
+NET  +933953x1 L
+UP:77.4,DN:77.6,Q=88
+FLOW: 11707.7  l/h
+VEL: 1.44782 m/s
+
+19-08-19 08:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +937841x1 L
+UP:77.4,DN:77.5,Q=97
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-19 09:30:00
+SYS:*R
+Flow  11776   l/h *R
+NET  +943377x1 L
+UP:77.3,DN:77.5,Q=88
+FLOW: 11776.6  l/h
+VEL: 1.45634 m/s
+
+19-08-19 10:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +949136x1 L
+UP:77.3,DN:77.4,Q=91
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-19 11:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +953111x1 L
+UP:77.3,DN:77.4,Q=93
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-19 12:30:00
+SYS:*R
+Flow  11793   l/h *R
+NET  +957773x1 L
+UP:77.0,DN:77.2,Q=84
+FLOW: 11793.3  l/h
+VEL: 1.45841 m/s
+
+19-08-19 13:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +961907x1 L
+UP:77.0,DN:77.1,Q=87
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-19 14:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +965575x1 L
+UP:76.9,DN:77.0,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-19 15:30:00
+SYS:*R
+Flow  11758   l/h *R
+NET  +968688x1 L
+UP:77.0,DN:77.2,Q=92
+FLOW: 11758.3  l/h
+VEL: 1.45408 m/s
+
+19-08-19 16:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +973634x1 L
+UP:77.1,DN:77.2,Q=91
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-19 17:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +977493x1 L
+UP:77.1,DN:77.3,Q=92
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-19 18:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +981435x1 L
+UP:76.5,DN:76.6,Q=85
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-19 19:30:00
+SYS:*R
+Flow  10760   l/h *R
+NET  +984795x1 L
+UP:77.0,DN:77.1,Q=90
+FLOW: 10760  l/h
+VEL: 1.33062 m/s
+
+19-08-19 20:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +987974x1 L
+UP:77.2,DN:77.3,Q=92
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-19 21:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +990956x1 L
+UP:77.2,DN:77.4,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-19 22:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +994036x1 L
+UP:77.3,DN:77.4,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-19 23:30:00
+SYS:*R
+Flow  11750   l/h *R
+NET  +996346x1 L
+UP:77.3,DN:77.5,Q=88
+FLOW: 11750.5  l/h
+VEL: 1.45312 m/s
+
+19-08-20 00:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET  +998264x1 L
+UP:77.3,DN:77.5,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-20 01:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1000930x1 L
+UP:77.3,DN:77.4,Q=89
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-20 02:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1002309x1 L
+UP:77.3,DN:77.4,Q=92
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-20 03:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1004927x1 L
+UP:77.3,DN:77.5,Q=93
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-20 04:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1006166x1 L
+UP:77.3,DN:77.5,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-20 05:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1008749x1 L
+UP:77.3,DN:77.4,Q=89
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-20 06:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1011681x1 L
+UP:77.3,DN:77.4,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-20 07:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1014751x1 L
+UP:77.3,DN:77.4,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-20 08:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1017879x1 L
+UP:77.3,DN:77.5,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-20 09:30:00
+SYS:*R
+Flow  11852   l/h *R
+NET +1021924x1 L
+UP:77.2,DN:77.4,Q=94
+FLOW: 11852.5  l/h
+VEL: 1.46572 m/s
+
+19-08-20 10:30:00
+SYS:*R
+Flow  11722   l/h *R
+NET +1026356x1 L
+UP:77.1,DN:77.4,Q=89
+FLOW: 11722.6  l/h
+VEL: 1.44966 m/s
+
+19-08-20 11:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1029969x1 L
+UP:77.1,DN:77.3,Q=94
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-20 12:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1033145x1 L
+UP:77.0,DN:77.0,Q=92
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-20 13:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1036492x1 L
+UP:76.9,DN:76.9,Q=93
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-20 14:30:00
+SYS:*R
+Flow  11859   l/h *R
+NET +1040769x1 L
+UP:76.8,DN:77.0,Q=84
+FLOW: 11859.5  l/h
+VEL: 1.4666 m/s
+
+19-08-20 15:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1045360x1 L
+UP:76.7,DN:76.8,Q=91
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-20 16:30:00
+SYS:*R
+Flow  11845   l/h *R
+NET +1049369x1 L
+UP:76.7,DN:76.8,Q=89
+FLOW: 11845  l/h
+VEL: 1.4648 m/s
+
+19-08-20 17:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1055082x1 L
+UP:76.8,DN:76.9,Q=91
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-20 18:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1058782x1 L
+UP:76.9,DN:76.9,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-20 19:30:00
+SYS:*R
+Flow  11782   l/h *R
+NET +1062965x1 L
+UP:76.8,DN:77.0,Q=90
+FLOW: 11782.1  l/h
+VEL: 1.45702 m/s
+
+19-08-20 20:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1067304x1 L
+UP:77.0,DN:77.1,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-20 21:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1070344x1 L
+UP:77.0,DN:77.2,Q=93
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-20 22:30:00
+SYS:*R
+Flow  11761   l/h *R
+NET +1072259x1 L
+UP:77.0,DN:77.3,Q=90
+FLOW: 11761.2  l/h
+VEL: 1.45443 m/s
+
+19-08-20 23:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1074519x1 L
+UP:77.1,DN:77.2,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-21 00:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1077179x1 L
+UP:77.1,DN:77.2,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-21 01:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1078527x1 L
+UP:77.1,DN:77.3,Q=83
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-21 02:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1081169x1 L
+UP:77.2,DN:77.3,Q=91
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-21 03:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1082498x1 L
+UP:77.2,DN:77.3,Q=89
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-21 04:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1085176x1 L
+UP:77.2,DN:77.3,Q=92
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-21 05:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1086555x1 L
+UP:77.3,DN:77.4,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-21 06:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1089479x1 L
+UP:77.3,DN:77.4,Q=89
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-21 07:30:00
+SYS:*R
+Flow  11781   l/h *R
+NET +1092783x1 L
+UP:77.3,DN:77.5,Q=90
+FLOW: 11781.1  l/h
+VEL: 1.4569 m/s
+
+19-08-21 08:30:00
+SYS:*R
+Flow  11736   l/h *R
+NET +1096954x1 L
+UP:77.2,DN:77.5,Q=89
+FLOW: 11736.2  l/h
+VEL: 1.45134 m/s
+
+19-08-21 09:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1100742x1 L
+UP:77.1,DN:77.3,Q=91
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-21 10:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1106614x1 L
+UP:77.0,DN:77.1,Q=92
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-21 11:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1110484x1 L
+UP:77.0,DN:77.0,Q=91
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-21 12:30:00
+SYS:*R
+Flow  11899   l/h *R
+NET +1115232x1 L
+UP:76.6,DN:76.8,Q=90
+FLOW: 11899.9  l/h
+VEL: 1.47159 m/s
+
+19-08-21 13:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1120959x1 L
+UP:76.7,DN:76.8,Q=93
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-21 14:30:00
+SYS:*R
+Flow  11867   l/h *R
+NET +1125785x1 L
+UP:76.5,DN:76.7,Q=90
+FLOW: 11867.3  l/h
+VEL: 1.46756 m/s
+
+19-08-21 15:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1131585x1 L
+UP:76.6,DN:76.7,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-21 16:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1135251x1 L
+UP:76.6,DN:76.7,Q=93
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-21 17:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1140796x1 L
+UP:76.7,DN:76.8,Q=91
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-21 18:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1144155x1 L
+UP:76.7,DN:76.8,Q=93
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-21 19:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1147497x1 L
+UP:76.8,DN:76.8,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-21 20:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1150488x1 L
+UP:76.9,DN:77.0,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-21 21:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1153401x1 L
+UP:76.9,DN:77.0,Q=91
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-21 22:30:00
+SYS:*R
+Flow  11753   l/h *R
+NET +1156286x1 L
+UP:77.0,DN:77.2,Q=88
+FLOW: 11753.2  l/h
+VEL: 1.45344 m/s
+
+19-08-21 23:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1157831x1 L
+UP:77.0,DN:77.2,Q=91
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-22 00:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1160620x1 L
+UP:77.0,DN:77.2,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-22 01:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1161989x1 L
+UP:77.1,DN:77.3,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-22 02:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1164697x1 L
+UP:77.1,DN:77.2,Q=91
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-22 03:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1166021x1 L
+UP:77.2,DN:77.3,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-22 04:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1168651x1 L
+UP:77.2,DN:77.3,Q=92
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-22 05:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1170087x1 L
+UP:77.3,DN:77.4,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-22 06:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1173087x1 L
+UP:77.2,DN:77.4,Q=91
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-22 07:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1176162x1 L
+UP:77.3,DN:77.4,Q=92
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-22 08:30:00
+SYS:*R
+Flow  11752   l/h *R
+NET +1179892x1 L
+UP:77.2,DN:77.4,Q=89
+FLOW: 11752.2  l/h
+VEL: 1.45332 m/s
+
+19-08-22 09:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1186167x1 L
+UP:77.1,DN:77.3,Q=91
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-22 10:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1190032x1 L
+UP:77.0,DN:77.2,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-22 11:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1196845x1 L
+UP:77.0,DN:77.1,Q=96
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-22 12:30:00
+SYS:*R
+Flow  11891   l/h *R
+NET +1201254x1 L
+UP:76.6,DN:76.8,Q=90
+FLOW: 11891.2  l/h
+VEL: 1.47051 m/s
+
+19-08-22 13:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1207228x1 L
+UP:76.4,DN:76.5,Q=92
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-22 14:30:00
+SYS:*R
+Flow  12050   l/h *R
+NET +1210990x1 L
+UP:76.4,DN:76.6,Q=92
+FLOW: 12050.7  l/h
+VEL: 1.49024 m/s
+
+19-08-22 15:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1216436x1 L
+UP:76.5,DN:76.5,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-22 16:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1220220x1 L
+UP:76.5,DN:76.6,Q=92
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-22 17:30:00
+SYS:*R
+Flow  11825   l/h *R
+NET +1224775x1 L
+UP:76.5,DN:76.7,Q=86
+FLOW: 11825.5  l/h
+VEL: 1.46239 m/s
+
+19-08-22 18:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1230012x1 L
+UP:76.7,DN:76.7,Q=92
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-22 19:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1233531x1 L
+UP:76.7,DN:76.8,Q=96
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-22 20:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1236783x1 L
+UP:76.8,DN:76.9,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-22 21:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1239669x1 L
+UP:77.0,DN:77.0,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-22 22:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1242660x1 L
+UP:77.0,DN:77.1,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-22 23:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1245433x1 L
+UP:77.0,DN:77.1,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-23 00:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1246727x1 L
+UP:77.1,DN:77.2,Q=91
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-23 01:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1249457x1 L
+UP:77.1,DN:77.2,Q=91
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-23 02:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1250816x1 L
+UP:77.2,DN:77.3,Q=86
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-23 03:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1253500x1 L
+UP:77.2,DN:77.2,Q=94
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-23 04:30:00
+SYS:*R
+Flow  0.0000  l/h *R
+NET +1254858x1 L
+UP:77.1,DN:77.3,Q=90
+FLOW: 0  l/h
+VEL: 0 m/s
+
+19-08-23 05:30:00
+SYS:*R
+Flow  498.57  l/h *R
+NET +1257653x1 L
+UP:77.2,DN:77.4,Q=93
+FLOW: 498.575  l/h
+VEL: 0.0616558 m/s
+
+19-08-23 06:30:00
+SYS:*R
+Flow  10603   l/h *R
+NET +1259175x1 L
+UP:77.2,DN:77.4,Q=87
+FLOW: 10603  l/h
+VEL: 1.31121 m/s
+
+19-08-23 07:30:00
+SYS:*R
+Flow  11849   l/h *R
+NET +1262347x1 L
+UP:77.2,DN:77.4,Q=92
+FLOW: 11849.7  l/h
+VEL: 1.46538 m/s
+
+19-08-23 08:30:00
+SYS:*R
+Flow  11737   l/h *R
+NET +1265883x1 L
+UP:77.1,DN:77.4,Q=92
+FLOW: 11737.9  l/h
+VEL: 1.45155 m/s
+
+19-08-23 09:30:00
+SYS:*R
+Flow  955.40  l/h *R
+NET +1270342x1 L
+UP:77.1,DN:77.2,Q=92
+FLOW: 955.4  l/h
+VEL: 0.118148 m/s
+
