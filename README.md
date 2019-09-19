@@ -27,8 +27,8 @@ Estrutura desejada para cada valor de leitura, mantendo os campos Data,Hora,Vaza
    </code>
 </pre>
 
-<h2>Uso<h2>
-  <p>O conversor pode ser executado na linha de comando a partir do comando <code>python conversor.py</code><br> 
+<h2>Uso</h2>
+  <p>O conversor pode ser executado na linha de comandos a partir do comando <code>python conversor.py</code><br> 
   O nome do arquivo de entrada então é solicitado para o usuário e o script se encarrega do restante, gerando um arquivo chamado resultado.csv
     
   Este repositório possui um arquivo chamado PRINT.txt que foi gerado a partir de um dos medidores de vazão e que pode ser utilizado para testes
